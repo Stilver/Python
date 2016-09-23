@@ -1,6 +1,5 @@
 import os
 import sys
-import telnetlib
 import time
 import getpass
 
